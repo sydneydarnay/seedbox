@@ -1,4 +1,5 @@
 #!/bin/bash
+# sd
 
 if [ $UID -ne "0" ];then
 	echo "Run as root - sudo $0"
